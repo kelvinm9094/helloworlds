@@ -16,8 +16,8 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
-
+* [x] List anything else that you can get done to improve the app functionality!
+    - changing the font size to make it easier to read
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
@@ -34,7 +34,7 @@ GIF created with ...LiceCap
 ## Notes
 
 Describe any challenges encountered while building the app.
-
+Formatting the images were a bit tricky 
 ## License
 
     Copyright [yyyy] [name of copyright owner]
