@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">helloworlds</string>
+    <string name="kelvin_intro">My name is kelvin i love andriod devolpment and sea otters.</string>
+    <string name="say_hello">Say Hello</string>
+</resources>
